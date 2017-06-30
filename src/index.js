@@ -51,7 +51,13 @@ var questions = [
     }
 ];
 
-var 
+// A. Words of Affirmation
+// B. Quality Time
+// C. Receiving Gifts
+// D. Acts of Service
+// E. Physical Touch
+
+var a, b, c, d, e = 0;
 
 /* generate_suggestions randomly picks a cuisine type under the variable food (which you can customize for your preferences) and outputs a suggestion. */
 
