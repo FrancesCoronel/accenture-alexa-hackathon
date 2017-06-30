@@ -1,0 +1,27 @@
+{
+  "name": "accenture-alexa-hackathon",
+  "version": "1.0.0",
+  "description": "Accenture's Alexa Hackathon on June 30th, 2017",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://fvcproductions@github.com/fvcproductions/accenture-alexa-hackathon.git"
+  },
+  "keywords": [
+    "alexa",
+    "hackathon",
+    "accenture"
+  ],
+  "author": "FVCproductions",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fvcproductions/accenture-alexa-hackathon/issues"
+  },
+  "homepage": "https://github.com/fvcproductions/accenture-alexa-hackathon#readme",
+  "dependencies": {
+    "alexa-app": "^4.0.1"
+  }
+}
